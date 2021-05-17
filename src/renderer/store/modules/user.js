@@ -4,7 +4,7 @@ const user = {
     // name: JSON.parse(localStorage.getItem('name')),
     // roles: JSON.parse(localStorage.getItem('roles'))
     token: 'admin',
-    name: 'Super Admin',
+    name: '孤独的尽头是自由',
     roles: ['admin']
   },
 

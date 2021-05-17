@@ -16,4 +16,7 @@ export default {
 
 <style>
 /* CSS */
+#app {
+    perspective: 2000px;
+}
 </style>

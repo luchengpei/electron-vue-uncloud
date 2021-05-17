@@ -129,11 +129,11 @@ $light_gray: #eee;
 /* reset element-ui css */
 .login-container {
     position: fixed;
-    height: 100%;
+    height: 100vh;
     width: 100%;
     top: 0;
     left: 0;
-    background-image: url("@/assets/timg.jpg");
+    background-image: url("https://vkceyugu.cdn.bspapp.com/VKCEYUGU-961b6030-14d7-48d6-ac17-d4ba8deaef20/2489c597-ff0a-46c3-b441-d9c499316dc4.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     // background-position: 100% 100%;

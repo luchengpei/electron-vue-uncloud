@@ -28,7 +28,8 @@ function createMainWindow() {
       devTools: process.env.NODE_ENV === 'development',
       // devTools: true,
       // 在macos中启用橡皮动画
-      scrollBounce: process.platform === 'darwin'
+      scrollBounce: process.platform === 'darwin',
+      webviewTag: true
     }
   })
   // 这里设置只有开发环境才注入显示开发者模式
